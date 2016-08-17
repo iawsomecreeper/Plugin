@@ -1,6 +1,6 @@
 <?php
 
-namespace ExtraCommands;
+namespace YourPlugin;
 
 use pocketmine\plugin\PluginBase; #Required
 use pocketmine\command\CommandSender; #To know the command sender
