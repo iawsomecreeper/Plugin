@@ -1,11 +1,7 @@
-name: PluginName
+name: Flyme
 main: YourPlugin\Class
 version: 1.0.0
-api: [2.0.0]
-#If you have commands then.. (Remove the hashtags (#))
-#commands:
- #yourcommand:
-  #description: "Your command description"
-  #usage: "/command"
-  #permission: "pluginname.command" (If you have)
-  
+api: [3.0.0]
+commands:
+  flyme:
+  description: lets you fly
